@@ -11,7 +11,7 @@ Ele permite que o usuário:
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - [x] Atribuição de variáveis (`x = 10 + 5`)
 - [x] Avaliação de expressões (`x * 2`)
@@ -20,7 +20,7 @@ Ele permite que o usuário:
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ### Pré-requisitos:
 - Java instalado (JDK 8 ou superior)
